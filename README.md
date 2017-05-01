@@ -9,11 +9,11 @@ This is a start page designed specifically to look nice with Microsoft Edge. It 
 * Light (Meant for use with App Mode set to Light)
 
 ## Contents
-####[Install](#Install)
+[Install](#Install)
 
-####[Dark](#Dark)
+[Dark](#Dark)
 
-####[Light](#Light)
+[Light](#Light)
 
 ## Install
 1. Clone the repository `git clone https://github.com/katalysatorn/MSEdge-StartPage`.
@@ -29,15 +29,10 @@ This is a start page designed specifically to look nice with Microsoft Edge. It 
 
 ---
 ### Dark
-
 ![MSEdge-StartPage in its dark flavour][darkImg]
-
 [View live][dark]
 ---
 ### Light
-
 ![MSEdge-StartPage in its light flavour][lightImg]
-
 [View live][light]
-
-#### Coming soon ;)
+#### Coming soon
