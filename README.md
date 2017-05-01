@@ -25,7 +25,8 @@ This is a start page designed specifically to look nice with Microsoft Edge. It 
 ![MSEdge-StartPage in its dark flavour][darkImg]
 [View live][dark]
 ---
+---
 ### Light
 ![MSEdge-StartPage in its light flavour][lightImg]
 [View live][light]
-#### Coming soon
+---
