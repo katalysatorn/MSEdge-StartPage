@@ -1,21 +1,21 @@
 body
 {
-	background-color: #242424;
+	background-color: #cccccc;
 }
 
 a
 {
 	text-decoration: none;
-	color: #e2e2e2;
+	color: #000000;
 }
 a:hover
 {
-	color: white;
+	color: #aaaaaa;
 }
 
 table
 {
-	color: #999999;
+	color: #aaaaaa;
 	font-family: 'Roboto', sans-serif;
 	text-align: center;
 	margin: auto;
@@ -31,7 +31,7 @@ th
 }
 
 p {
-	color: #999999;
+	color: #aaaaaa;
 	position: absolute;
 	bottom: 0px;
 	right: 0px;
