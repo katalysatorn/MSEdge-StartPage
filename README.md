@@ -1,1 +1,1 @@
-# EdgeDark-StartPage
+# MSEdge-StartPage
