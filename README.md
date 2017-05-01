@@ -1,5 +1,5 @@
 [dark]: https://katalysatorn.github.io/MSEdge-StartPage/dark/
-[darkImg]: https://katalysatorn.github.io/MSEdge-StartPage/docs/dark.png
+[darkImg]: ../docs/dark.png
 
 # MSEdge-StartPage
 This is a start page designed specifically to look nice with Microsoft Edge. It has two flavours:
