@@ -29,3 +29,11 @@ th
 {
 	padding: 30px;
 }
+
+p {
+	color: #999999;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	padding: 2vh;
+}
