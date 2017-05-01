@@ -10,7 +10,9 @@ This is a start page designed specifically to look nice with Microsoft Edge. It 
 
 ## Contents
 [Install](#Install)
+
 [Dark](#Dark)
+
 [Light](#Light)
 
 ## Install
