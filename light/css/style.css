@@ -1,0 +1,40 @@
+body
+{
+	background-color: #242424;
+}
+
+a
+{
+	text-decoration: none;
+	color: #e2e2e2;
+}
+a:hover
+{
+	color: white;
+}
+
+table
+{
+	color: #999999;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	margin: auto;
+	padding-top: 15vh;
+}
+td
+{
+	padding: 10px 35px;
+}
+th
+{
+	padding: 30px;
+}
+
+p {
+	color: #999999;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	padding: 5px;
+	margin: 0px;
+}
