@@ -1,9 +1,17 @@
+[dark]: https://katalysatorn.github.io/MSEdge-StartPage/dark/
 [darkImg]: https://katalysatorn.github.io/MSEdge-StartPage/docs/dark.png
 
 # MSEdge-StartPage
 This is a start page designed specifically to look nice with Microsoft Edge. It has two flavours:
 * Dark (Meant for use with App Mode set to Dark)
 * Light (Meant for use with App Mode set to Light)
+
+---
+### Dark
+![MSEdge-StartPage in its dark flavor][darkImg]
+[View live][dark]
+---
+
 
 ## Install
 1. Clone the repository `git clone https://github.com/katalysatorn/MSEdge-StartPage`.
@@ -16,8 +24,3 @@ This is a start page designed specifically to look nice with Microsoft Edge. It 
 8. Where it says **Choose a theme** pick the one that matches your startpage flavour.
 9. Where it says **Open Microsoft Edge with** select *A specific page or pages* and paste the URL where it says *Enter a URL*.
 10. Hit save.
-
----
-### Dark
-![MSEdge-StartPage in its dark flavor][darkImg]
----
