@@ -1,1 +1,5 @@
 Dark Theme Colors
+nonfocused                  #242424
+nonfocus.text               #999999
+focus                       #383838
+focus.text                  #e2e2e2
