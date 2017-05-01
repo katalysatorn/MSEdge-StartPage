@@ -1,0 +1,30 @@
+body
+{
+	background-color: #242424;
+}
+
+a
+{
+	text-decoration: none;
+	color: #e2e2e2;
+}
+a:hover
+{
+	color: white;
+}
+
+table
+{
+	color: #999999;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	margin: auto;
+}
+td
+{
+	padding: 10px;
+}
+th
+{
+	padding: 20px;
+}
