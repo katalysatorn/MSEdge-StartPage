@@ -1,10 +1,17 @@
 [dark]: https://katalysatorn.github.io/MSEdge-StartPage/dark/
 [darkImg]: https://katalysatorn.github.io/MSEdge-StartPage/docs/dark.png
+[light]: https://katalysatorn.github.com/MSEdge-StartPage/light/
+[lightImg]: https://katalysatorn.github.com/MSEdge-StartPage/docs/light.png
 
 # MSEdge-StartPage
 This is a start page designed specifically to look nice with Microsoft Edge. It has two flavours:
 * Dark (Meant for use with App Mode set to Dark)
 * Light (Meant for use with App Mode set to Light)
+
+## Contents
+[Install](#Install)
+[Dark](#Dark)
+[Light](#Light)
 
 ## Install
 1. Clone the repository `git clone https://github.com/katalysatorn/MSEdge-StartPage`.
@@ -20,6 +27,10 @@ This is a start page designed specifically to look nice with Microsoft Edge. It 
 
 ---
 ### Dark
-![MSEdge-StartPage in its dark flavor][darkImg]
+![MSEdge-StartPage in its dark flavour][darkImg]
 [View live][dark]
 ---
+### Light
+![MSEdge-StartPage in its light flavour][lightImg]
+[View live][light]
+#### Coming soon
