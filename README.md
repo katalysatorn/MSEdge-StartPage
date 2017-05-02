@@ -9,8 +9,9 @@ This is a start page designed specifically to look nice with Microsoft Edge. It 
 * Light (Meant for use with App Mode set to Light)
 
 ## Contents
-[Install](#Install)
-[New Tab Behaviour](#New-Tab-Behaviour)
+* [Install](#Install)
+
+* [New Tab Behaviour](#New-Tab-Behaviour)
 
 ---
 
@@ -34,6 +35,7 @@ Since [here](https://github.com/katalysatorn/MSEdge-StartPage/commit/46ebff255ac
 3. In **Find What:** type ` target="_blank"`
 4. Hit **Replace All**
 5. Save the file and it should now open in the current tab.
+
 ***Note:*** *These instructions are for Sublime Text 3 and may depend on what text editor you use*
 
 
