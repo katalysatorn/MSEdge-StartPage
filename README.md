@@ -10,7 +10,6 @@ This is a start page designed specifically to look nice with Microsoft Edge. It 
 
 ## Contents
 * [Install](#Install)
-
 * [New Tab Behaviour](#New-Tab-Behaviour)
 
 ---
