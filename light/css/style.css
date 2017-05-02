@@ -38,3 +38,14 @@ p {
 	padding: 5px;
 	margin: 0px;
 }
+
+input {
+	width: 100%;
+	height: 100%;
+	color: #aaaaaa;
+	background-color: #cccccc;
+	border: none;
+	font-size: 16px;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}

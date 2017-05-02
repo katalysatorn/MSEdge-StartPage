@@ -8,8 +8,16 @@
 		<table>
 			<tr>
 				<th>Start</th>
-				<th></th>
-				<th></th>
+				<td colspan="2" id="colspan">
+					<form method="get" action="https://www.google.com/search" target="_blank">
+						<div id="searchBar">
+							<input type="text" name="q" maxlength="255" value="Search Google" autofocus
+							onfocus="this.value=''";
+							onblur="this.value=this.defaultValue";
+							/>
+						</div>
+					</form>
+				</td>
 			</tr>
 			<tr>
 				<td><a href="https://facebook.com" target="_blank">Facebook</a></td>
@@ -44,6 +52,6 @@
 			</tr>
 			-->
 		</table>
-		<p><a href="https://katalysatorn.github.io" target="_blank>&pi;</a></p>
+		<p><a href="https://katalysatorn.github.io" target="_blank">&pi;</a></p>
 	</body>
 </html>

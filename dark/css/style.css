@@ -1,6 +1,7 @@
 body
 {
 	background-color: #242424;
+	font-family: 'Roboto', sans-serif;
 }
 
 a
@@ -16,7 +17,6 @@ a:hover
 table
 {
 	color: #999999;
-	font-family: 'Roboto', sans-serif;
 	text-align: center;
 	margin: auto;
 	padding-top: 15vh;
@@ -37,4 +37,15 @@ p {
 	right: 0px;
 	padding: 5px;
 	margin: 0px;
+}
+
+input {
+	width: 100%;
+	height: 100%;
+	color: #999999;
+	background-color: #242424;
+	border: none;
+	font-size: 16px;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
 }
