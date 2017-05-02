@@ -11,6 +11,7 @@ This is a start page designed specifically to look nice with Microsoft Edge. It 
 ## Contents
 * [Install](#Install)
 * [New Tab Behaviour](#New-Tab-Behaviour)
+* [Questions](#Questions)
 
 ---
 
@@ -46,3 +47,8 @@ Since [here](https://github.com/katalysatorn/MSEdge-StartPage/commit/46ebff255ac
 ### Light
 ![MSEdge-StartPage in its light flavour][lightImg]
 ##### [View Live][light]
+---
+
+### Questions
+If you have any questions, simply [write a new question report](https://github.com/katalysatorn/MSEdge-StartPage/issues/new). It would be preferable as well if you can select the question tag. [It would be preferable as well if you can select the question tag.](https://katalysatorn.github.io/MSEdge-StartPage/docs/questionTag.png)
+---
