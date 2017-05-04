@@ -9,9 +9,9 @@ This is a start page designed specifically to look nice with Microsoft Edge. It 
 * Light (Meant for use with App Mode set to Light)
 
 ## Contents
-* [Install](#Install)
-* [New Tab Behaviour](#New-Tab-Behaviour)
-* [Questions](#Questions)
+* [Install](#install)
+* [New Tab Behaviour](#new-tab-behaviour)
+* [Questions](#questions)
 
 ---
 
