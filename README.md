@@ -50,5 +50,6 @@ Since [here](https://github.com/katalysatorn/MSEdge-StartPage/commit/46ebff255ac
 ---
 
 ### Questions
+
 If you have any questions, simply [write a new question report](https://github.com/katalysatorn/MSEdge-StartPage/issues/new). It would be preferable as well if you can select the question tag. [It would be preferable as well if you can select the question tag.](https://katalysatorn.github.io/MSEdge-StartPage/docs/questionTag.png)
 ---
